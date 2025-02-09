@@ -23,6 +23,10 @@ Develop an AI system that:
 ✅ Data Logging: SQLite or CSV (for storing occupancy timelines)
 ✅ Visualization: Matplotlib (for plotting zone occupancy over time)
 
+To activate python environment:
+use : source my_env/bin/activate & to Deactivate use 'deacticvate'
+
+
 📅 1-Week Project Plan
 
 Day 1: Dataset Preparation & Model Setup
